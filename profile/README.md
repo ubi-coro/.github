@@ -1,26 +1,26 @@
-# AG Kollaborative Robotik - Universität Bielefeld
+# AG Collaborative Robotics - Bielefeld University
 
-Willkommen auf der öffentlichen Seite der Arbeitsgruppe für Kollaborative Robotik unter der Leitung von Prof. Dr. Klaus Neumann. Unsere Forschungsgruppe ist eine gemeinsame Initiative der Universität Bielefeld und dem Fraunhofer IOSB-INA in Lemgo. Wir sind Teil des Forschungszentrums „Cognitive Interaction Technology“ (CITEC) und der Technischen Fakultät der Universität Bielefeld.
+Welcome to the public page of the Collaborative Robotics Research Group led by Prof. Dr. Klaus Neumann. Our research group is a joint initiative of Bielefeld University and Fraunhofer IOSB-INA in Lemgo. We are part of the "Cognitive Interaction Technology" (CITEC) research center and the Faculty of Technology at Bielefeld University.
 
-## Über uns
+## About Us
 
-Die AG Kollaborative Robotik beschäftigt sich mit dem intuitiven Einsatz kollaborativer Robotersysteme in der Manipulation und Montage auf Basis von Imitationslernen. Unsere Forschung konzentriert sich auf:
+The Collaborative Robotics Research Group focuses on the intuitive use of collaborative robotic systems in manipulation and assembly based on imitation learning. Our research focuses on:
 
-- **Rekonfigurierbare und modulare Roboter**
-- **Intelligenter Produkttransport**
-- **Neuronale Steuerung und Regelung von Robotern in sicherer Interaktion mit menschlichen Produktionsteilnehmern**
-- **Systeme der magnetischen Levitation und Planarrobotik**
+- **Reconfigurable and modular robots**
+- **Intelligent product transport**
+- **Neural control and regulation of robots in safe interaction with human production participants**
+- **Magnetic levitation systems and planar robotics**
 
-Unser Ziel ist es, innovative Lösungen für die industrielle Automation zu entwickeln und die Zusammenarbeit zwischen Mensch und Maschine zu optimieren.
+Our goal is to develop innovative solutions for industrial automation and to optimize the collaboration between humans and machines.
 
-## Forschungsprojekte und Veröffentlichungen
+## Research Projects and Publications
 
-Auf dieser Seite finden Sie Links zu unseren Git-Repositories, die in unseren wissenschaftlichen Publikationen erwähnt werden. Diese Repositories enthalten Code, Datensätze und andere Ressourcen, die im Rahmen unserer Forschungsarbeiten entstanden sind.
+On this page, you will find links to our Git repositories mentioned in our scientific publications. These repositories contain code, datasets, and other resources generated as part of our research work.
 
-## Kontakt
+## Contact
 
-Für weitere Informationen besuchen Sie bitte unsere [offizielle Website](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/forschung/ag-ueberblick/kollaborative-robotik/).
+For more information, please visit our [official website](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/forschung/ag-ueberblick/kollaborative-robotik/).
 
 ---
 
-Vielen Dank für Ihr Interesse an unserer Arbeit!
+Thank you for your interest in our work!
