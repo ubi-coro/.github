@@ -1,3 +1,7 @@
+<a href="https://www.youtube.com/@CollaborativeRoboticsBielefeld">
+ <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/views/%40CollaborativeRoboticsBielefeld?style=social&logo=youtube&label=%40CollaborativeRoboticsBielefeld">
+</a>
+
 # AG Collaborative Robotics - Bielefeld University
 
 Welcome to the public page of the Collaborative Robotics Research Group led by Prof. Dr. Klaus Neumann. Our research group is a joint initiative of Bielefeld University and Fraunhofer IOSB-INA in Lemgo. We are part of the "Cognitive Interaction Technology" (CITEC) research center and the Faculty of Technology at Bielefeld University.
