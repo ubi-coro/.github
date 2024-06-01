@@ -1,5 +1,5 @@
 <a href="https://www.youtube.com/@CollaborativeRoboticsBielefeld">
- <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/views/%40CollaborativeRoboticsBielefeld?style=social&logo=youtube&label=%40CollaborativeRoboticsBielefeld">
+ <img alt="YouTube Channel" src="https://img.shields.io/youtube/channel/views/UCREwypH6DjgGIypD94mt3SA?style=social&logo=youtube&label=%40CollaborativeRoboticsBielefeld">
 </a>
 
 # AG Collaborative Robotics - Bielefeld University
