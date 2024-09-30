@@ -27,10 +27,11 @@ We are part of the [Cognitive Interaction Technology](https://www.uni-bielefeld.
 
 The Collaborative Robotics research group focuses on the intuitive use of collaborative robotic systems in manipulation and assembly based on imitation learning. Our research focuses on:
 
-- **Reconfigurable and modular robots**
+- **Reconfigurable** and **modular robots**
 - **Intelligent product transport**
 - **Neural control and regulation of robots in safe interaction with human production participants**
-- **Magnetic levitation systems and planar robotics**
+- **Magnetic levitation systems** and **planar robotics**
+- **Simulations** and **object detection with image processing**
 
 Our goal is to develop innovative solutions for industrial automation and to optimize the collaboration between humans and machines.
 
