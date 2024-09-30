@@ -47,7 +47,7 @@ On this page, you will find links to our Git repositories mentioned in our scien
 
 ## Contact
 
-For more information, please visit our [official website](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/forschung/ag-ueberblick/kollaborative-robotik/).
+For more information, please visit our [official website](https://www.uni-bielefeld.de/fakultaeten/technische-fakultaet/arbeitsgruppen/kollaborative-robotik/).
 
 ---
 
